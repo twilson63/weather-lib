@@ -1,0 +1,18 @@
+{
+  "name": "@twilson63/weather-lib",
+  "version": "1.0.0",
+  "description": "A simple wrapper around metaweather api",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
